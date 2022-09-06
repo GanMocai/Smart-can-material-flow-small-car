@@ -1,5 +1,5 @@
 # Smart-can-material-fow-small-car
-智能物流小车
+智能物流小车(将升级为共创市赛）
 ### 项目目标
 1.能走直线
 
